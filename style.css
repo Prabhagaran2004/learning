@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+li{
+    color: gray;
+    background-color: black;
+}
+ul,li,h1{
+    display: inline;
+}
+ul{
+    margin-left: 60%;
+}
+li:hover{
+    color: white;
+}
+.one{
+    margin-top: 20px;
+    margin-left: 350px;
+}
+input{
+    width: 650px;
+    height: 30px;
+}
+.two,.three,.four{
+    display: inline;
+    padding: 100px;
+    padding-top: 100px;
+    height: min-content;
+}
+.six:hover{
+    color: gray;
+   
+    
+}
